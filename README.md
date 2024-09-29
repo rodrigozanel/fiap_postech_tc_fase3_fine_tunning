@@ -11,7 +11,9 @@ Weberton Eugênio de Faria
 
 Links do projeto desenvolvido pelo grupo
 Link para video com a apresentação do projeto:
+
 Repositorio: https://github.com/rodrigozanel/fiap_postech_tc_fase3_fine_tunning
+
 Video explicativo: https://youtu.be/p9B1HNcrvQQ?si=bqTvp0Lw75AoJdmG
 
 Fine Tunning com lista de produtos
