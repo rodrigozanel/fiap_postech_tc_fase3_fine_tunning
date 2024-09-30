@@ -14,6 +14,8 @@ Link para video com a apresentação do projeto:
 
 Repositorio: https://github.com/rodrigozanel/fiap_postech_tc_fase3_fine_tunning
 
+Documentacao: Vide codigo
+
 Video explicativo: 
 https://www.youtube.com/watch?v=LdYhRX7d9_4
 
